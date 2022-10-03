@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProject2">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 741989700 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nutritional Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EOS Nutritional Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 741989700 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EOS Nutritional Information - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 741989700 - Field 2380051424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calorie Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EOS Nutritional Information - Field Calorie Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 741989700 - Field 659838168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EOS Nutritional Information - Field Information Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 741989700 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EOS Nutritional Information - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 492406129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nutritional Information Factbox</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EOS Nutr. Info. Factbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 492406129 - Action 2169212467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EOS Nutr. Info. Factbox - Action deleteme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2097383676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nutritional Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EOS Nutr. Info. List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1009479397 - Field 1435516698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Total Calories</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50100 - Field Total Calories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1442036871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum EOS Information Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1442036871 - EnumValue 837068723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Carbohydrates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum EOS Information Type - EnumValue Carbohydrates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1442036871 - EnumValue 1138956292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fats</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum EOS Information Type - EnumValue Fats - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1442036871 - EnumValue 2979945781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Protein</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum EOS Information Type - EnumValue Protein - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

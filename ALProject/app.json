@@ -1,0 +1,25 @@
+{
+  "id": "c10be094-3748-4503-88f9-0093b4e30a61",
+  "name": "ALProject2",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "dependencies": [],
+  "platform": "20.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
