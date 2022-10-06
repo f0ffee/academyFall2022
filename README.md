@@ -14,6 +14,22 @@ Inserite il vostro nome qui sotto:
 
 Francesco Fortunato
 
+Marco Vezuli
+
+Nicolò Volpato
+
+Valerio Belenkov
+
+Alessio Gavioli
+
+Samuele Ciardi
+
+Lorenzo Sgaravatti
+
+Federico Proce
+
+Andrea Lorenzetti
+
 ## Reverse Sentences
 
 In questo repository, raccoglieremo le vostre soluzioni in AL all'esercizio seguente.
