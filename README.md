@@ -24,7 +24,7 @@ Alessio Gavioli
 
 Samuele Ciardi
 
-Lorenzo Sgaravattinsdfdsfds
+Lorenzo Sgaravatti
 
 Federico Proce
 
