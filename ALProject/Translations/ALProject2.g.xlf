@@ -28,25 +28,95 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table EOS Nutritional Information - Field Item No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 164845690 - Control 1626888117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nutritional Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EOS Nutr. Info. Card - Control NutrInfoData - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 492406129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Nutritional Information Factbox</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page EOS Nutr. Info. Factbox - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 492406129 - Action 2169212467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>delete</source>
+        <trans-unit id="Page 492406129 - Action 4200628361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page EOS Nutr. Info. Factbox - Action deleteme - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EOS Nutr. Info. Factbox - Action NutrInfoCard - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2097383676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Nutritional Information</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page EOS Nutr. Info. List - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3157100689 - Action 1173372267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Add Macros</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExt50101 - Action InitNutrInfo - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 1009479397 - Field 1435516698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
           <source>Total Calories</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50100 - Field Total Calories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1647176014 - Field 837068723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Carbohydrates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50101 - Field Carbohydrates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1647176014 - Field 1138956292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Fats</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50101 - Field Fats - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1647176014 - Field 2979945781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Protein</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50101 - Field Protein - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1647176014 - Field 1435516698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Total Calories</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50101 - Field Total Calories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4029053459 - Field 837068723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Carbohydrates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50102 - Field Carbohydrates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4029053459 - Field 1138956292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Fats</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50102 - Field Fats - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4029053459 - Field 2979945781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Protein</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50102 - Field Protein - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4029053459 - Field 1435516698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Total Calories</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50102 - Field Total Calories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 371782780 - Field 837068723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Carbohydrates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50103 - Field Carbohydrates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 371782780 - Field 1138956292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Fats</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50103 - Field Fats - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 371782780 - Field 2979945781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Protein</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50103 - Field Protein - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 371782780 - Field 1435516698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Total Calories</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExt50103 - Field Total Calories - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 1442036871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Information Type</source>
