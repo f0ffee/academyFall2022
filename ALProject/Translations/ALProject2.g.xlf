@@ -48,6 +48,76 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page EOS Nutr. Info. List - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 1274032355 - Method 1544076788 - NamedType 714204962" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to modify all carbohydrates?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Delete Carbs - Method OnPreReport - NamedType DeleteCarbsQst</note>
+        </trans-unit>
+        <trans-unit id="Report 3086873898 - Method 2736589801 - NamedType 1259361324" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete some items?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Delete Items - Method OnPostReport - NamedType ConfirmDeletionQst</note>
+        </trans-unit>
+        <trans-unit id="Report 1151929728 - Method 2736589801 - NamedType 2248871371" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the description of item %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Generate Items - Method OnPostReport - NamedType DescTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1151929728 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Generate Items - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1151929728 - Control 3437602538 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of items that are going to be generated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Generate Items - Control ItemCount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1151929728 - Control 3437602538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of items to create</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Generate Items - Control ItemCount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Nutritional Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Nutritional Info. Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - ReportLabel 3619174261" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Carbohydrates (g)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Nutritional Info. Print - ReportLabel CarbohydratesLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - ReportLabel 1207283454" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fats (g)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Nutritional Info. Print - ReportLabel FatsLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - ReportLabel 1228942691" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Protein (g)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Nutritional Info. Print - ReportLabel ProteinLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - ReportLabel 3040577680" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nutritional Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Nutritional Info. Print - ReportLabel ReportTitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Nutritional Info. Print - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - Control 1957321609 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If enabled, shows the picture for the displayed item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Nutritional Info. Print - Control ShowPicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - Control 1957321609 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EOS Nutritional Info. Print - Control ShowPicture - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3157100689 - Action 1173372267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
           <source>Add Macros</source>
           <note from="Developer" annotates="general" priority="2"></note>

@@ -19,13 +19,81 @@
           <source>Information Type</source>
           <target>Art der Informationen</target>
         </trans-unit>
+        <trans-unit id="Page 164845690 - Control 1626888117 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Nutritional Information</source>
+          <target>Nährwertangaben</target>
+        </trans-unit>
         <trans-unit id="Page 2097383676 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Nutritional Information</source>
           <target>Nährwertangaben</target>
         </trans-unit>
+        <trans-unit id="Page 492406129 - Action 4200628361 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Card</source>
+          <target>Karte</target>
+        </trans-unit>
         <trans-unit id="Page 492406129 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Nutritional Information Factbox</source>
           <target>Nährwertangaben Factbox</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3157100689 - Action 1173372267 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Add Macros</source>
+          <target>Hinzufügen von Makros</target>
+        </trans-unit>
+        <trans-unit id="Report 1151929728 - Control 2346885236 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+        </trans-unit>
+        <trans-unit id="Report 1151929728 - Control 3437602538 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the number of items that are going to be generated.</source>
+          <target>Gibt die Anzahl der Elemente an, die generiert werden sollen.</target>
+        </trans-unit>
+        <trans-unit id="Report 1151929728 - Control 3437602538 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>No. of items to create</source>
+          <target>Nein. Anzahl der zu erstellenden Elemente</target>
+        </trans-unit>
+        <trans-unit id="Report 1151929728 - Method 2736589801 - NamedType 2248871371" translate="yes" size-unit="char" xml:space="preserve">
+          <source>This is the description of item %1</source>
+          <target>Dies ist die Beschreibung von Element %1</target>
+        </trans-unit>
+        <trans-unit id="Report 1274032355 - Method 1544076788 - NamedType 714204962" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Are you sure you want to modify all carbohydrates?</source>
+          <target>Bist du sicher, dass du alle Kohlenhydrate modifizieren möchtest?</target>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - Control 1957321609 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>If enabled, shows the picture for the displayed item.</source>
+          <target>Wenn diese Option aktiviert ist, wird das Bild für das angezeigte Element angezeigt.</target>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - Control 1957321609 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Show Picture</source>
+          <target>Bild anzeigen</target>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - Control 4105281732 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Print Nutritional Information</source>
+          <target>Nährwertangaben drucken</target>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - ReportLabel 1207283454" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Fats (g)</source>
+          <target>Fette (g)</target>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - ReportLabel 1228942691" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Protein (g)</source>
+          <target>Eiweiß (g)</target>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - ReportLabel 3040577680" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Nutritional Information</source>
+          <target>Nährwertangaben</target>
+        </trans-unit>
+        <trans-unit id="Report 2241098559 - ReportLabel 3619174261" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Carbohydrates (g)</source>
+          <target>Kohlenhydrate (g)</target>
+        </trans-unit>
+        <trans-unit id="Report 3086873898 - Method 2736589801 - NamedType 1259361324" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Are you sure you want to delete some items?</source>
+          <target>Sind Sie sicher, dass Sie einige Elemente löschen möchten?</target>
         </trans-unit>
         <trans-unit id="Table 741989700 - Field 2380051424 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Calorie Count</source>
@@ -50,6 +118,54 @@
         <trans-unit id="TableExtension 1009479397 - Field 1435516698 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Total Calories</source>
           <target>Gesamtkalorien</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1647176014 - Field 1138956292 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Fats</source>
+          <target>Fette</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1647176014 - Field 1435516698 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Total Calories</source>
+          <target>Gesamtkalorien</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1647176014 - Field 2979945781 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Protein</source>
+          <target>Protein</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1647176014 - Field 837068723 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Carbohydrates</source>
+          <target>Kohlenhydrate</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 371782780 - Field 1138956292 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Fats</source>
+          <target>Fette</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 371782780 - Field 1435516698 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Total Calories</source>
+          <target>Gesamtkalorien</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 371782780 - Field 2979945781 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Protein</source>
+          <target>Protein</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 371782780 - Field 837068723 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Carbohydrates</source>
+          <target>Kohlenhydrate</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 4029053459 - Field 1138956292 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Fats</source>
+          <target>Fette</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 4029053459 - Field 1435516698 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Total Calories</source>
+          <target>Gesamtkalorien</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 4029053459 - Field 2979945781 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Protein</source>
+          <target>Protein</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 4029053459 - Field 837068723 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Carbohydrates</source>
+          <target>Kohlenhydrate</target>
         </trans-unit>
       </group>
     </body>
